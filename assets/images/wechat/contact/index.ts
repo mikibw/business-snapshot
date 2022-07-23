@@ -1,0 +1,10 @@
+export {default as contact_add} from './contact_add.png';
+export {default as contact_new_friend} from './contact_new_friend.png';
+export {default as contact_only_chat_friend} from './contact_only_chat_friend.png';
+export {default as contact_group_chat} from './contact_group_chat.png';
+export {default as contact_tag} from './contact_tag.png';
+export {default as contact_public_account} from './contact_public_account.png';
+export {default as contact_business_wx} from './contact_business_wx.png';
+export {default as icon_phone} from './icon_phone.png';
+export {default as contact_unselected} from './contact_unselected.png';
+export {default as contact_selected} from './contact_selected.png';
